@@ -11,6 +11,7 @@
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [Video Demo](#demo)
 - [Questions](#questions)
 
 ## License
@@ -23,6 +24,9 @@ This application is covered by the MIT license.
 
 ## Tests
 ✏️ npm test
+
+## Demo
+[Video Demo](./assets/team-org-generator_demo.mov)
 
 ## Questions
 ✋ patwa.sparsh@gmail.com<br />
